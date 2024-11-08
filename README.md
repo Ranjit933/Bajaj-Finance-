@@ -25,7 +25,7 @@ This repository contains an in-depth Financial Statement Analysis of Bajaj Finan
 ## PowerPoint:
 
 * Presentation Design: Created a visually engaging summary of findings and recommendations with PowerPoint, utilizing custom templates, charts, and icons.
-Data-Driven Slides: Embedded Excel charts and financial models to provide a cohesive visual narrative of Bajaj Finance Ltd’s financial health.
+* Data-Driven Slides: Embedded Excel charts and financial models to provide a cohesive visual narrative of Bajaj Finance Ltd’s financial health.
 
 
 ## Objectives
