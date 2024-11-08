@@ -20,8 +20,9 @@ This repository contains an in-depth Financial Statement Analysis of Bajaj Finan
 ## MS Word:
 
 * Professional Documentation: Comprehensive report formatting, including section headers, executive summary, and findings, using MS Word’s advanced styling and referencing tools.
-Incorporation of Financial Tables: Structured data tables to enhance readability and provide quick financial insights.
-PowerPoint:
+* Incorporation of Financial Tables: Structured data tables to enhance readability and provide quick financial insights.
+  
+## PowerPoint:
 
 * Presentation Design: Created a visually engaging summary of findings and recommendations with PowerPoint, utilizing custom templates, charts, and icons.
 Data-Driven Slides: Embedded Excel charts and financial models to provide a cohesive visual narrative of Bajaj Finance Ltd’s financial health.
@@ -32,7 +33,7 @@ Data-Driven Slides: Embedded Excel charts and financial models to provide a cohe
 * Evaluate Financial Health: Perform financial ratio and trend analyses to determine profitability, liquidity, and stability.
 * Operational Efficiency Analysis: Assess asset utilization and resource management in achieving business objectives.
 * Strategic Recommendations: Formulate actionable strategies based on financial insights and SWOT analysis.
-Contents
+Contents.
 * Executive Summary: Overview of key findings and project purpose.
 * Methodology: Detailed breakdown of analytical techniques, tools, and financial modeling methods used.
 * Findings and Recommendations: Insightful analysis and practical recommendations.
